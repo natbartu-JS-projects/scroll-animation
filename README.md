@@ -4,4 +4,4 @@ This application is about animation effect, as you scrool the page the animation
 
 # Preview
 
-![Watch the video](assets/scroll-animation.gif)
+![video preview](assets/scroll-animation.gif)
